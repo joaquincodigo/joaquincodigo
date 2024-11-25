@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joaquín.Codigo
 - 👀 I’m interested in becoming a wise programmer.
-- 🌱 I’m currently learning React and Tailwind by doing.
+- 🌱 I’m currently learning NextJS and Tailwind by doing.
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 Reach me joaquin.codigo@gmail.com  
 
